@@ -1,4 +1,6 @@
 Group story:  6 team members, so we need to use 12 words (at least) from the dictionary.txt file.  I'll start it off...
 
 Hans hadn't had a bratwurst in years, and even his most impressive kopfkino skills were unable to remind him of the days when 
-bratwurst literally grew on trees. He suddenly had a schnapsidee to attempt to find a bratwurst which had been outlawed in Berlin since "the incident".
+bratwurst literally grew on trees. He suddenly had a schnapsidee to attempt to find a bratwurst which had been outlawed in 
+Berlin since "the incident".  A plan this cunning would need a disguise... luckily Hans had held on to his mother's dirndel
+all these years.
