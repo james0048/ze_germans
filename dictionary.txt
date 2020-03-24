@@ -1,10 +1,10 @@
 The following German words require definition or description:
 
-Kopfkino - head cinema -- AKA your imagination
-Schnapsidee - snap idea
+Kopfkino - head cinema -- AKA your imagination  
+Schnapsidee - snap idea  
 Flughafen - airport
-Berlin - city in Germany, or 80's progressive rock band.  Your choice.
-Bratwurst - tasty sausage
+Berlin - city in Germany, or 80's progressive rock band.  Your choice.   
+Bratwurst - tasty sausage 
 Hauptstrasse - main road
 Brot - loaf, like bread
 Gauss - German mathmetician, or a measurement of magnetic flux density
@@ -12,10 +12,22 @@ Klimaanlage - air conditioning
 Rammstein - a city, an air force base, or a German rock band
 Musik - music
 BMW - German auto maker
-Biergarten - beer garden
+Biergarten - beer garden 
 Ratskeller - council cellar -- a bar or restaurant in the basement of a city building
-Dirndel - a traditional women's dress... think server at Oktoberfest
+Dirndel - a traditional women's dress... think server at Oktoberfest   
 Lederhose - leather pants, very stylish
 Luftschloss - airlock
 wettbewerbsfaehig - comptetitive
 Schneewittchen - Snow White 
+
+
+Used words: 
+Kopfkino - head cinema -- AKA your imagination 
+Schnapsidee - snap idea   
+Berlin - city in Germany, or 80's progressive rock band.  Your choice.
+Bratwurst - tasty sausage  
+Biergarten - beer garden        
+Dirndel - a traditional women's dress... think server at Oktoberfest 
+Lederhose - leather pants, very stylish
+Schneewittchen - Snow White 
+
